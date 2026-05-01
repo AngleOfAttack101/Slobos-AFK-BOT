@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Hobros.aternos.me",
+    "ip": "Hobros.aternos.me:34069",
     "port": 34069,
     "version": "1.21.1"
   },
