@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Hobros.aternos.me:34069",
-    "port": 34069,
+    "ip": "Hobros.aternos.me",
+    "port": "34069",
     "version": "1.21.1"
   },
   "position": {
